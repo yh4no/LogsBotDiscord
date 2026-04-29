@@ -1,2 +1,3 @@
 # TicketLogdiscord
-Python Script for discord ticket bot
+
+Python Script for logs in discord.
