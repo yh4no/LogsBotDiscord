@@ -2,4 +2,4 @@
 
 Python Script for logs in discord.
 
-<img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/f49a022d-9c53-489c-84dd-ccad020983f8" />
+<img width="1500" height="1500" alt="Image" src="https://github.com/user-attachments/assets/e4adf7ed-42d0-4929-8dd6-df14b6a51a8e" />
