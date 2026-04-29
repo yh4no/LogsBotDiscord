@@ -1,1 +1,2 @@
-# Script feito para automação de logs no discord
+# TicketLogdiscord
+Python Script for discord ticket bot
